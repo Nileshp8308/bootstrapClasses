@@ -1,0 +1,20 @@
+.container{
+    border: 2px solid red;
+}
+
+.row{
+    border: 2px solid blue;
+}
+
+.pink{
+    background-color: pink;
+    padding-right: 10px;
+}
+
+.yellow{
+    background-color: yellowgreen;
+}
+
+.green{
+    background-color: green;
+}
