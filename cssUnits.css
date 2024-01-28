@@ -1,0 +1,16 @@
+#box{
+    border: 2px solid red;
+    width: 50%;
+    height: 400px;
+    font-size: 13px;
+}
+
+#boxOne{
+    border: 1px solid black;
+    width: 50vw;
+    height: 50vh;
+}
+
+#box p{
+    font-size: 2em;
+}
